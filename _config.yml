@@ -19,7 +19,7 @@ content:
 #     url: brianmaierjr
 
 # General settings
-baseurl: "/purple" 
+baseurl: "/orange" 
 markdown: kramdown
 sharing_image: share.jpg
 google_analytics: "G-3CLTHF25DG" # google analytics tracking
