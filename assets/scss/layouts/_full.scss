@@ -16,7 +16,7 @@
   &__image {
     background-size: cover;
     background-position: center;
-    @include responsivebackground("Green.png");
+    @include responsivebackground("Orange.png");
     min-height: 50vh;
 
     @include min(md) {
